@@ -1,0 +1,25 @@
+---
+title: "Tess Newkold"
+author: "My Introduction!"
+output: html_document
+---
+
+```{r out.width = "50%", echo = FALSE}
+knitr::include_graphics("/Users/Tess/Documents/Tess/Ohio/UniversityOfCincinnati/BuisnessAnalytics/Fall2018/DataWranglingInR/Module1/ProfilePic.jpg")
+knitr::include_graphics("/Users/Tess/Documents/Tess/Ohio/UniversityOfCincinnati/BuisnessAnalytics/Fall2018/DataWranglingInR/Module1/Screen Shot 2018-10-20 at 5.42.29 PM.png")
+```
+
+Hello, my name is Tess! I currently live in Dayton, OH. However, I have moved around a lot in my life. I have lived in Iowa, Minnesota, South Dakota, North Carolina, and now Ohio!  
+
+###Academic Background
+* B.S. in Biology from [The University of North Carolina - Wilmington](https://uncw.edu/) in Wilmington, NC
+* *Currently* M.S. in Buisness Analytics from [University of Cincinnati](https://www.uc.edu/) in Cincinnati, OH
+
+###Professional Background
+With my previous degree in Biology I originally wanted to enter the Developmental Biology field. I worked at Cincinnati Childrens in the [Fetal Department](https://www.cincinnatichildrens.org/research/divisions/c/fetal-placental-research/research), studing the development of the fetal immune system and their potential ability to receive a stem cell transplant *in utero*. I then became a Lab Manager in the [Experimental Hematology and Cancer Biology Department](https://www.cincinnatichildrens.org/research/divisions/e/ex-hem/research/hematological-malignancy) for Dr. Leighton Grimes. We studied how the biological processes of cell development goes wrong. I became very interested in the data analysis our colaborators were doing! That is why I enrolled in the Business Analytics program at University of Cincinnati. 
+
+###Experience with R
+* None! ...except the R Bootcamp at orientation. 
+
+###Experience with Other Coding Languages
+* C++
